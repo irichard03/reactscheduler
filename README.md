@@ -15,3 +15,6 @@ This project is a practice assignment from a colleague to learn react and re-fam
 
 ## Available Scripts
 npm start will launch the express server (back end) and the react client (front end) using concurrently, add/modify the script from package.json
+
+# Extra
+Also practicing git which I haven't commited much to in a hot
